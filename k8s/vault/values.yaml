@@ -1,5 +1,4 @@
 server:
   dev:
     enabled: true
-  extraArgs:
-    - "-dev-root-token-id=root"
+  extraArgs: "-dev-root-token-id=root"
